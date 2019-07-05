@@ -1,0 +1,17 @@
+{
+  "name": "simple_rest_api",
+  "version": "1.0.0",
+  "description": "Simple Restful API using Node.js, Express, and MongoDB(Atlas).",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Hunter Smith",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.3",
+    "nodemon": "^1.19.1"
+  }
+}
